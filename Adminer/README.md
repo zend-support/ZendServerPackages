@@ -1,7 +1,7 @@
-# Adminer 4.1.0
+# Adminer 4.2.1
 
 ```
-Created: 15/01/2015
+Created: 06/04/2015
 Packager: Zvika Dror
 Main Features:
 Adminer - Database management in a single PHP file
