@@ -1,6 +1,6 @@
-# Adminer 4.2.2 #
+# Adminer 4.2.5 #
 
-**Created**: 09/09/2015
+**Created**: 03/07/2016
 
 **Packager**: Zvika Dror, Zend Global Support
 
